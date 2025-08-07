@@ -1,9 +1,9 @@
 
 {
-    "name": "session name",
+    "name": "BLACKWOLF-MD session",
     "description": "Web Session Generator",
-    "logo": "image url",
-    "repository": "https://github.com/username/sesssion name",
+    "logo": "https://files.catbox.moe/mhiy1v.jpg",
+    "repository": "https://github.com/shashika2008/BLACKWOLF-MD sesssion",
     "keywords": ["Malvin-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
