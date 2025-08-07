@@ -1,5 +1,5 @@
 {
-  "description": "session name",
+  "description": "Blackwolf-md-sessions",
   "main": "./malvin.js",
   "type": "commonjs",
   "engines": {
